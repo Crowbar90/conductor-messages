@@ -1,3 +1,9 @@
 # Conductor.Messages
 
-[![tests](https://github.com/Crowbar90/conductor-messages/actions/workflows/tests.yaml/badge.svg?branch=main&event=push)](https://github.com/Crowbar90/conductor-messages/actions/workflows/tests.yaml)
+Messages NuGet package for the Conductor project.
+
+## Build Status
+
+| **Branch** | **Status** |
+| ---------- | ---------- |
+| main       | [![NuGet](https://github.com/Crowbar90/conductor-messages/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/Crowbar90/conductor-messages/actions/workflows/build.yaml) |
